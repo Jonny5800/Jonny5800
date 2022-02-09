@@ -1,0 +1,77 @@
+<main id="main">
+<style>
+  body {
+background-color: white; 
+  }
+
+ //background pattern to use 
+ //url(https://www.transparentpng.com/thumb/pattern/p3NBVZ-data-security-and-privacy-software-services-safe-data.png)
+ //Not sure why the image sometimes shows and sometimes doesn't
+
+.group-pic{
+  min-height: 100%;
+  min-width: 100%;
+}
+.ants-head{
+  max-height: 10%;
+  max-height: 10%;
+  left:10px;
+  top: 10px;
+  bottom: 10px;
+  right: 10px;
+  left: 10px;
+
+}
+div{
+  background-color: blue;
+}
+</style>
+
+<h1 id="title">
+ Mr Anthony Douglas
+ <p>
+   The man who inspired a thousand kids
+   </p>
+</h1>
+
+
+
+<div id="img-div">
+<img class="ants-head"src=https://media-exp1.licdn.com/dms/image/C5603AQHK09t2tTkZIA/profile-displayphoto-shrink_800_800/0/1581809163536?e=1649894400&v=beta&t=POEWxcQEusjQG17K5zXnlt88x_X0I5Blb2yYMQSIktQ alt=https://media-exp1.licdn.com/dms/image/C562DAQHhGuwGU74EXQ/profile-treasury-image-shrink_800_800/0/1602303996701?e=1644350400&v=beta&t=rCoLVMMSSDyKVmJkrgwGUfNKFrwmVjyzUU8Z6cM7yKY>
+<p id="img-caption">
+  Here he is in the wild
+</p>
+</div>
+
+<div2>
+
+<h5 id="tribute-info">
+Here is a timeline of his life
+</h5>
+
+<h6>
+  <ul>
+<strong><li>1987</strong> - Born in <strong>Huddersfield</li>
+<strong><li>1996</strong> - Went to almondbury juniors</li>
+<strong><li>1997</strong> - Broke his arm in football</li>
+<strong><li>1999</strong> - Went to Almondbury High</li>
+<strong><li>2004</strong> - Played football for "A-team"</li>
+<strong><li>2008</strong> - Went to university</li>
+<strong><li>2011</strong> - Graduated from Uni</li>
+<strong><li>2013</strong> - Went to Cancun</li>
+</ul>
+
+</h6>
+</div2>
+<h7>
+Anthonys life so far has been full of achievement traveling and living life. 
+</h7>
+
+<H8>
+  If you have time you should read more about this guy on his <a href = "https://www.linkedin.com/in/anthony-douglas-77a099133/" target="_blank">  likedin page
+</h8>
+
+
+
+
+</main>
